@@ -1,9 +1,6 @@
+
 # 💳 MAEN GEN
-
-**MAEN GEN** es una herramienta en Python diseñada para generar datos ficticios como números de tarjetas, perfiles falsos y BINs personalizados. Es ideal para fines educativos, pruebas de sistemas y demostraciones, **no para uso ilegal**.
-
 ---
-
 ## 🚀 Características
 
 - **Generar tarjetas aleatorias** con fecha de expiración y CVV.
@@ -70,14 +67,6 @@ Al usar la opción **2**, podrás elegir entre múltiples países mediante su c�
 ```
 MX, ES, US, BR, FR, IT, DE, RU, CN, JP, KR, AR, CL, CO, VE, PE, CA, IN, AU, ZA
 ```
-
----
-
-## ⚠️ Advertencia
-
-Este script **NO** debe utilizarse para fines fraudulentos o ilegales.  
-Está desarrollado únicamente con propósitos **educativos y de pruebas**.  
-El uso indebido es responsabilidad exclusiva del usuario.
 
 ---
 
