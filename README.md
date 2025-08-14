@@ -26,7 +26,7 @@
 
 1. **Clonar o descargar el script**
    ```bash
-   git clone https://github.com/usuario/maen-gen.git
+   git clone https://github.com/LooKsCrazy0RL/MAEN-GEN.git
    cd maen-gen
    ```
 
