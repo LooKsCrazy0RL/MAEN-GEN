@@ -4,7 +4,7 @@
 ## 🚀 Características
 
 - **Generar tarjetas aleatorias** con fecha de expiración y CVV.
-- **Generar datos falsos realistas** (nombre, dirección, teléfono, email y tarjeta) usando la librería `Faker` con soporte para múltiples países.
+- **Generar datos falsos realistas** (nombre, dirección, teléfono, email y tarjeta).
 - **Generar tarjetas con BIN personalizado** y control de fecha/CVV.
 - **Generar BINs aleatorios** para Visa, MasterCard, Amex y Discover.
 - **Interfaz animada** con efectos de color y carga.
